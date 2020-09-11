@@ -8,10 +8,10 @@ class ListNode:
         self.next=None
 
 #实例化节点
-ListNode n1= ListNode(4)
-ListNode n2= ListNode(5)
-ListNode n3= ListNode(1)
-# 构建应用
+n1= ListNode(4)
+n2= ListNode(5)
+n3= ListNode(1)
+# 构建链接
 n1.next(n2)
 n2.next(n3)
 
