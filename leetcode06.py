@@ -14,8 +14,8 @@ class Solution:
     def reversePrint(self, head: ListNode) -> List[int]:
         if head is None:
             return []
-        res = self.reversePrint(head.next)
-        res.append(head.val)
+        res = self.reversePrint(head.next)  #一直向前推进，知道head = None并且返回[]
+        res.append(head.val) #回溯，加入各个节点的值
         return res
 
 #堆栈
