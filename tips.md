@@ -5,9 +5,9 @@ class Test(object):
         self.a=1
         b=2
 ```
->>>test = Test()
->>>test.a   输出1
->>>test.b   报错,无该属性
+\>\>\>test = Test()
+\>\>\>test.a   输出1
+\>\>\>test.b   报错,无该属性
 
 
 2. 在python中res.append(path),是将此path对象加入res,后续path改变时，res中的path也会变正确做法  
