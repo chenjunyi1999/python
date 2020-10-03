@@ -2,4 +2,4 @@
 ### 一. python的数据结构
 [数据结构](https://github.com/chenjunyi1999/python/blob/master/datastructure.py)
 ### 二.python的算法
-写在前面的踩过的坑--->[注意点](https://github.com/chenjunyi1999/python/blob/master/tips.md)
+leetcode刷题小贴士--->[tips](https://github.com/chenjunyi1999/python/blob/master/tips.md)
