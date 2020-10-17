@@ -3,3 +3,6 @@
 [数据结构](https://github.com/chenjunyi1999/python/blob/master/datastructure.py)
 ### 二.python的算法
 leetcode刷题小贴士--->[tips](https://github.com/chenjunyi1999/python/blob/master/tips.md)
+#### 1.贪心法
+(1)leetcode12.矩阵中路径
+(3)leetcode13
